@@ -2,7 +2,7 @@
 Gurdeep git course repo
 
 ## section 2
-section 2 gies here
+section 2 goes here
 *italic text* <br/>
 **bold here**
 
@@ -22,7 +22,9 @@ section 2 gies here
 Var td1 int = 0;
 ```
 -----------------------------------------
-This iremotely added
+This is remotely added but locally corrected
 -----------------------------------------
+
+1234
 
 
