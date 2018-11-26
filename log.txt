@@ -1,3 +1,4 @@
 testing git ignore file
 
-feature for making conflicts in master
+feature for making conflicts in feature
+
